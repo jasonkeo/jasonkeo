@@ -13,7 +13,6 @@ Hi, I'm Jason ✌️, a student software developer from Perth, Australia. When I
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonkeo&label=Profile%20views&color=0e75b6&style=flat" alt="jasonkeo Profile Views" /> </p>
 
 - 🔭 I’m currently working on some web apps.
-- 🌱 I’m learning React and Tailwind.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything, I'd happy to answer it.
 - 📫 How to reach me: via email or Discord (quietpanda).
@@ -50,8 +49,9 @@ Hi, I'm Jason ✌️, a student software developer from Perth, Australia. When I
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jasonkeo" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=jasonkeo" />
 </a>
+
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonkeo&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonkeo&layout=compact&langs_count=8&card_width=320" />
 </a>
