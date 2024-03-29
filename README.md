@@ -5,7 +5,7 @@
 
 Hi, I'm Jason ✌️, a student software developer from Perth, Australia. Aside from that, I like to solve puzzles, socialize and attempt to get some good sleep 😴. Some languages I enjoy working with are....
 
-<img align="right" width=420px alt="GIF" src="https://giphy.com/gifs/studio-ghibli-spirited-away-ayBZf3xVtT74Q" />
+<img align="right" width=420px alt="GIF" src="https://64.media.tumblr.com/2dfcd3bc67a4aeeb7d40768fbee709a3/tumblr_mk10atCSi71r3ifxzo1_500.gifv" />
 
 
 **About Me:**
