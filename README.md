@@ -47,14 +47,6 @@ Hi, I'm Jason ✌️, a student software developer from Perth, Australia. When I
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<div display="flex">
+![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonkeo)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=jasonkeo" />
-</a>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonkeo&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-</div>
