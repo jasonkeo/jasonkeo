@@ -54,9 +54,3 @@ Hi, I'm Jason ✌️, a student software developer from Perth, Australia. When I
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-**Stats:**
-
-![](https://github.com/jasonkeo/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/jasonkeo/github-stats/blob/master/generated/overview.svg#gh-light-mode-only)
-![](https://github.com/jasonkeo/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
-![](https://github.com/jasonkeo/github-stats/blob/master/generated/languages.svg#gh-light-mode-only)
