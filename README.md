@@ -49,6 +49,6 @@ Hi, I'm Jason ✌️, a computer science student from Perth, Australia. When I'm
 
 **Stats:**
 
-![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonkeo)
+![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonkeo&theme=algolia)
 
 
