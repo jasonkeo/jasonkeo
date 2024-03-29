@@ -3,7 +3,7 @@
 <!--
 <img src="https://github-profile-trophy.vercel.app/?username=jasonkeo&theme=onedark&margin-w=15&margin-h=15&column=7&v=2" alt="jasonkeo" />
 -->
-Hi, I'm Jason ✌️, a student software developer from Perth, Australia. Aside from that, I like to solve puzzles, socialize and attempt to get some good sleep 😴. Some languages I enjoy working with are....
+Hi, I'm Jason ✌️, a student software developer from Perth, Australia. When I'm not suffering, I like to solve puzzles, socialize and attempt to get some good sleep 😴. Some things I'm learning right now are React and Javascript.
 
 <img align="right" width=420px alt="GIF" src="https://64.media.tumblr.com/2dfcd3bc67a4aeeb7d40768fbee709a3/tumblr_mk10atCSi71r3ifxzo1_500.gifv" />
 
@@ -16,7 +16,7 @@ Hi, I'm Jason ✌️, a student software developer from Perth, Australia. Aside 
 - 🌱 I’m learning React and Tailwind.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything, I'd happy to answer it.
-- 📫 How to reach me: via email or Discord (Jason Keo).
+- 📫 How to reach me: via email or Discord (quietpanda).
 - ⚡ Student at ECU.
 
 
