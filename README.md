@@ -35,7 +35,8 @@ Hi, I'm Jason ✌️, a student software developer from Perth, Australia. Aside 
 
 **JS:**
 
-![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
+![React](![Static Badge](https://img.shields.io/badge/react?style=flat&logo=react)
+
 
 
 **Backend:**
