@@ -3,7 +3,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=jasonkeo&theme=onedark&margin-w=15&margin-h=15&column=7&v=2" alt="jasonkeo" />
 
-Hi, I'm Jason ✌️, a student developer. Aside from that, I like to solve puzzles, socialize and attempt to get some good sleep 😴. Some languages I enjoy working with are....
+Hi, I'm Jason ✌️, a student software developer from Perth, Australia. Aside from that, I like to solve puzzles, socialize and attempt to get some good sleep 😴. Some languages I enjoy working with are....
 
 <img align="right" width=420px alt="GIF" src="https://giphy.com/gifs/studio-ghibli-spirited-away-ayBZf3xVtT74Q" />
 
