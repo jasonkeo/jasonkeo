@@ -38,14 +38,14 @@ Hi, I'm Jason ✌️, a student software developer from Perth, Australia. When I
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 
 
-
+<!--
 **Backend:**
 
 
 
 **Databases:**
 
-
+-->
 
 **Other Tools:**
 
