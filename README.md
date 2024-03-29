@@ -26,6 +26,7 @@ Hi, I'm Jason ✌️, a computer science student from Perth, Australia. When I'm
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 
 **Frameworks:**
+
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 
@@ -45,6 +46,8 @@ Hi, I'm Jason ✌️, a computer science student from Perth, Australia. When I'm
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+**Stats:**
 
 ![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonkeo)
 
