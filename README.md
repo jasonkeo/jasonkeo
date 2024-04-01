@@ -3,7 +3,7 @@
 <!--
 <img src="https://github-profile-trophy.vercel.app/?username=jasonkeo&theme=onedark&margin-w=15&margin-h=15&column=7&v=2" alt="jasonkeo" />
 -->
-✌️ I'm a computer science student from Perth, Australia. When I'm not suffering, I like to watch movies, play games and attempt to get some good sleep 😴. Some things I'm learning right now are React and Javascript.
+✌️ I'm a computer science student from Perth, Australia.
 
 <img align="right" width=420px alt="GIF" src="https://64.media.tumblr.com/2dfcd3bc67a4aeeb7d40768fbee709a3/tumblr_mk10atCSi71r3ifxzo1_500.gifv" />
 
