@@ -16,7 +16,7 @@
 - 📫 How to reach me: via email or Discord (quietpanda).
 - ⚡ Student at ECU.
 
-
+<!--
 **Languages:**
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
@@ -31,14 +31,14 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 
 
-<!--
+
 **Backend:**
 
 
 
 **Databases:**
 
--->
+
 
 **Other Tools:**
 
@@ -46,7 +46,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
+-->
 **Stats:**
 
 ![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonkeo&theme=algolia)
