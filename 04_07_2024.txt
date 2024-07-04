@@ -85,8 +85,13 @@ C#
 
 
 CTFS and Cyber
+-phinising and social engineerings 
+-malware
+-DATA leaks
+-endpoint/API vulnerabilties
 -ASCII and UTF-8
 -cross site scripting
 -proxies
 -symmetric and assymetric encryption
--hashing,
+-hashing
+    -weak passwords
