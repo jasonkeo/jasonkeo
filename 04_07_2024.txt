@@ -1,0 +1,83 @@
+
+Neetcode
+-static arrays vs dynamic arrays
+-linked list
+-understand how traversing trees
+
+Sorting
+
+
+BST
+
+Linkedlist
+
+
+
+React and also Javascript
+-useEffect
+-useState
+-useContext
+-fetch
+
+-other notes
+    -sometimes when u write a function
+
+
+-map vs foreach
+
+-async functions and promises
+
+
+Typescript
+-when to specify types
+    -declaring variables, asking for parameters in function, objects
+
+-sytanx of typescript
+
+-types
+-interfaces
+- or method
+
+
+
+
+System Design
+-RAM, CPU and Storage
+-data is sent in packets which sometimes contain pieces of a large item that then can be assembled together once all the packets are sent
+-ports are certain doorways which can be opened to accept these packets
+-network protocol is a set of rules which determines how theses the data is sent
+
+Rules of HTTP
+-HTTP => CRUD operations
+    -GET, PUT, POST, DELETE
+-the structure of header (meta data) and then
+
+-TCP vs UDP
+    -TCP stands for Transmission Control Protocol
+    -it is more reliable but slower
+    -example uses include FTP
+    -it has has 
+-public ip have 
+-HTTP vs HTTPS
+-
+
+
+NoSQL vs SQL
+-
+-
+-
+
+
+Django
+-ORM
+-views
+-models
+-serialiser
+
+
+C#
+
+
+CTFS and Cyber
+-symmetric and assymetric encryption
+-hashing,

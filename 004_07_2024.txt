@@ -1,8 +1,32 @@
-React
+
+Neetcode
+-static arrays vs dynamic arrays
+-linked list
+-understand how traversing trees
+
+Sorting
+
+
+BST
+
+Linkedlist
+
+
+
+React and also Javascript
 -useEffect
 -useState
 -useContext
 -fetch
+
+-other notes
+    -sometimes when u write a function
+
+
+-map vs foreach
+
+-async functions and promises
+
 
 Typescript
 -when to specify types
@@ -15,17 +39,17 @@ Typescript
 - or method
 
 
-Javascript
--map vs foreach
 
 
 System Design
+-RAM, CPU and Storage
 -data is sent in packets which sometimes contain pieces of a large item that then can be assembled together once all the packets are sent
 -ports are certain doorways which can be opened to accept these packets
 -network protocol is a set of rules which determines how theses the data is sent
--HTTP => CRUD operations
 
 Rules of HTTP
+-HTTP => CRUD operations
+    -GET, PUT, POST, DELETE
 -the structure of header (meta data) and then
 
 -TCP vs UDP
@@ -37,10 +61,11 @@ Rules of HTTP
 -HTTP vs HTTPS
 -
 
-Neetcode
--static arrays vs dynamic arrays
--linked list
 
+NoSQL vs SQL
+-
+-
+-
 
 
 Django
@@ -50,7 +75,9 @@ Django
 -serialiser
 
 
-Java
+C#
 
-C++
 
+CTFS and Cyber
+-symmetric and assymetric encryption
+-hashing,
