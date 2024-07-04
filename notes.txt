@@ -1,0 +1,53 @@
+React
+-useEffect
+-useState
+-useContext
+-fetch
+
+Typescript
+-when to specify types
+
+-types
+-interfaces
+- or method
+
+
+Javascript
+-map vs foreach
+
+
+System Design
+-data is sent in packets which sometimes contain pieces of a large item that then can be assembled together once all the packets are sent
+-ports are certain doorways which can be opened to accept these packets
+-network protocol is a set of rules which determines how theses the data is sent
+-HTTP => CRUD operations
+
+Rules of HTTP
+-the structure of header (meta data) and then
+
+-TCP vs UDP
+    -TCP stands for Transmission Control Protocol
+    -it is more reliable but slower
+    -example uses include FTP
+    -it has has 
+-public ip have 
+-HTTP vs HTTPS
+-
+
+Neetcode
+-static arrays vs dynamic arrays
+-linked list
+
+
+
+Django
+-ORM
+-views
+-models
+-serialiser
+
+
+Java
+
+C++
+
