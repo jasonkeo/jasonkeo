@@ -43,6 +43,8 @@ Typescript
 
 System Design
 -RAM, CPU and Storage
+-scaling horzontilally vs vertically
+
 -data is sent in packets which sometimes contain pieces of a large item that then can be assembled together once all the packets are sent
 -ports are certain doorways which can be opened to accept these packets
 -network protocol is a set of rules which determines how theses the data is sent
@@ -63,21 +65,26 @@ Rules of HTTP
 
 
 NoSQL vs SQL
--
+-soft deleting
 -
 -
 
 
 Django
--ORM
--views
+-ORM - a layer of abstraction over SQL, e.g Django will convert python code to SQL queries
+-views - take a http request and return a http response
+    -this can be a full web page for example or just an api response
 -models
 -serialiser
+-migrations
 
 
 C#
 
 
 CTFS and Cyber
+-ASCII and UTF-8
+-cross site scripting
+-proxies
 -symmetric and assymetric encryption
 -hashing,
