@@ -26,8 +26,16 @@ Neetcode
 React and also Javascript
 -useEffect
 -useState
+    -a way to render dynamic data
+    -syntax
+    - let [variable, changeVariable] = useState("intial data");
+        -if changeVariable("s") then the component holding the code will rerender
+    
+
 -useContext
 -fetch
+-import syntax
+    -import module or {function_1, function_2} from 'path';
 
 -other notes
     -sometimes when u write a function thats going to be called it when 
@@ -78,6 +86,12 @@ Rules of HTTP
     -it has has 
 -public ip have 
 -HTTP vs HTTPS
+-websocket
+    -establishes a connection then bidirectional
+    -this is better than "palling" which is frequent HTTP requests
+    -HTTP 2 actually has same feature
+    -this can be used for chatapps as can keep communicating 
+
 -cookies vs cache
 
 
@@ -86,6 +100,9 @@ NoSQL vs SQL
 -
 -
 
+
+SQL queries
+-
 
 Django
 -ORM - a layer of abstraction over SQL, e.g Django will convert python code to SQL queries
@@ -103,7 +120,7 @@ Django
 C#
 
 
-CTFS and Cyber
+TryHackMe and Cyber
 -encryption algorithms and what they are used for
     -caespher cipher
     -base64
