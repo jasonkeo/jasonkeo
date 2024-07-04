@@ -1,7 +1,16 @@
 
 Neetcode
+-big O notation
+-recursion
+    -
+    -structure of recursion
+
+
 -static arrays vs dynamic arrays
--linked list
+    -arrays in general have addresses that are incremented based on the size that they are
+    -static arrays have fixed space
+-pointers
+    -point to the address not the variable??
 -understand how traversing trees
 
 -Sorting
@@ -10,7 +19,8 @@ Neetcode
 -BST
 
 -Linkedlist
-
+    -objects that point to each other
+    -
 
 
 React and also Javascript
@@ -20,7 +30,8 @@ React and also Javascript
 -fetch
 
 -other notes
-    -sometimes when u write a function
+    -sometimes when u write a function thats going to be called it when 
+-callbacks vs .then()
 
 
 -map vs foreach
@@ -35,6 +46,7 @@ Typescript
 -sytanx of typescript
 
 -types
+    -string, boolean, number, boolean
 -interfaces
 - or method
 
@@ -43,6 +55,7 @@ Typescript
 
 System Design
 -RAM, CPU and Storage
+    -1 thread
 -scaling horzontilally vs vertically
 
 -data is sent in packets which sometimes contain pieces of a large item that then can be assembled together once all the packets are sent
@@ -52,7 +65,9 @@ System Design
 Rules of HTTP
 -HTTP => CRUD operations
     -GET, PUT, POST, DELETE
--the structure of header (meta data) and then
+-the structure of header (meta data) and body
+    -header contains infomation like where it is going
+    -body contains infomation like the method and the "pay load"
 
 -TCP vs UDP
     -TCP stands for Transmission Control Protocol
