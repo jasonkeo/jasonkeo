@@ -89,6 +89,7 @@ CTFS and Cyber
 -malware
 -DATA leaks
 -endpoint/API vulnerabilties
+    -sql injection
 -ASCII and UTF-8
 -cross site scripting
 -proxies
