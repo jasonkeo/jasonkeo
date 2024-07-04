@@ -63,7 +63,7 @@ Rules of HTTP
     -it has has 
 -public ip have 
 -HTTP vs HTTPS
--
+-cookies vs cache
 
 
 NoSQL vs SQL
@@ -74,10 +74,14 @@ NoSQL vs SQL
 
 Django
 -ORM - a layer of abstraction over SQL, e.g Django will convert python code to SQL queries
+    -orm can protect against SQL injections
 -views - take a http request and return a http response
     -this can be a full web page for example or just an api response
+    -class based and function based views
 -models
 -serialiser
+    -filtering requests
+    -fields certain....
 -migrations
 
 
@@ -85,6 +89,12 @@ C#
 
 
 CTFS and Cyber
+-encryption algorithms and what they are used for
+    -caespher cipher
+    -base64
+    -hmac
+    -RSA
+
 -phinising and social engineerings 
 -malware
 -DATA leaks
