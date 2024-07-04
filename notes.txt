@@ -6,6 +6,9 @@ React
 
 Typescript
 -when to specify types
+    -declaring variables, asking for parameters in function, objects
+
+-sytanx of typescript
 
 -types
 -interfaces
