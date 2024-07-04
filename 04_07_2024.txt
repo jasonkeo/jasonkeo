@@ -1,8 +1,20 @@
+/*
+To do:
+-watch course
+-read js,django rest,C# doc
+-implement algo
+-do leetcode
+-do course
+
+-code
+-finish notes
+*/
+
+
 
 Neetcode
 -big O notation
 -recursion
-    -
     -structure of recursion
 
 
@@ -15,17 +27,34 @@ Neetcode
 
 -Sorting
 
-
--BST
+-Searching
+    -BST
+    -DFS
+    -BFS
 
 -Linkedlist
     -objects that point to each other
     -
 
+Neetcode problems
+-2 sum
+-reverse a Linkedlist
+-inserting a node into middle of Linkedlist
+-is paradigm
+
+
+C#
+
 
 React and also Javascript
 
 -useEffect
+    -runs code when the depedancy (variables) changes or on mount of component by default
+    -sytanx
+        -useEffect(() => {
+
+
+        } , [])
 -useState
     -a way to render dynamic data, also can be used to parse data from child to parent, also state Management
     -syntax
@@ -73,6 +102,10 @@ React and also Javascript
 
 -async functions and promises
 
+
+-for loops
+
+-logic in javascript
 
 Typescript
 -when to specify types
@@ -130,6 +163,10 @@ Rules of HTTP
 
 
 -cookies vs cache
+    -both are storing infomation thats going to be used "frequently"
+    -but they store different things with different purposes of why
+        -cookies store authentication tokens that are sent with each request
+        -cache store images, passwords to reduce latency
 
 
 NoSQL vs SQL
@@ -139,7 +176,9 @@ NoSQL vs SQL
 
 
 SQL queries
--
+-SELECT
+    -getting values from columns from table
+    -can combine with where??
 
 Django
 -ORM - a layer of abstraction over SQL, e.g Django will convert python code to SQL queries
@@ -153,8 +192,6 @@ Django
     -fields certain....
 -migrations
 
-
-C#
 
 
 TryHackMe and Cyber
