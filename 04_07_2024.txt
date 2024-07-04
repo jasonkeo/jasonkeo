@@ -33,6 +33,10 @@ React and also Javascript
     
 
 -useContext
+    -used to pass infomation from parent to child components
+    -syntax 
+        -import
+        - 
 -fetch
 -import syntax
     -import module or {function_1, function_2} from 'path';
@@ -52,7 +56,10 @@ Typescript
     -declaring variables, asking for parameters in function, objects
 
 -sytanx of typescript
-
+    -let,var, const XYZ : type = value;
+    -function XYZ(paramter: type): return_type
+     { code;}
+    -interface XYZ = { param1: type, param2: type}
 -types
     -string, boolean, number, boolean
 -interfaces
@@ -121,6 +128,13 @@ C#
 
 
 TryHackMe and Cyber
+-finding vulnerabilties
+    -endpoint
+    -coding and technologies
+        -ssh
+    -injection and css
+    -not protecting properly
+
 -encryption algorithms and what they are used for
     -caespher cipher
     -base64
